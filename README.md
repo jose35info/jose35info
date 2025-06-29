@@ -22,6 +22,9 @@ Apaixonado por tecnologia, fé e aprendizado contínuo. Acredito que cada linha 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" alt="GitHub" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40" alt="Node.js" />
 <img align="left" alt="jose-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="30" width="40" alt="VSCode" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" width="40" alt="Linux" />
+
   </div><br><br>
   
   ##
