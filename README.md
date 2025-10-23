@@ -1,5 +1,5 @@
 ### Olá, me chamo José 👋
- Desenvolvedor em formação com foco em **linguagem C, JavaScript e desenvolvimento web**.  
+ Desenvolvedor com foco em **PHP, JavaScript*.  
 Estudo Análise e Desenvolvimento de Sistemas e estou constantemente evoluindo com projetos práticos e organização no GitHub.  
 Apaixonado por tecnologia, fé e aprendizado contínuo. Acredito que cada linha de código escrita com disciplina me aproxima do meu propósito.
 
